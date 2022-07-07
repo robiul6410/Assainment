@@ -1,0 +1,46 @@
+#banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgb(1, 1, 18)), url(images/donation6.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.banner-text {
+    text-align: center;
+    color: #fff;
+    padding-top: 200px;
+}
+
+.banner-text h1 {
+    font-size: 40px;
+}
+
+.donate-plan h1 {
+    text-align: center;
+    padding-top: 100px;
+    margin: 5px, 5px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(249, 78, 11, 0.688);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 7px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5px;
+}
+
+.half-width img {
+    width: 80%;
+}
